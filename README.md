@@ -1,4 +1,4 @@
-OLÁ EU SOU O LP (NÃO PEEGUNTE O SIGNIFICADO)
+OLÁ EU SOU O LP (NÃO PERGUNTE O SIGNIFICADO)
 
 - 💻 Dev fullstack com foco em desenvolvimento web  
 - 🌱 Foco em aprendizados múltiplos
