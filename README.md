@@ -30,4 +30,6 @@ OLÁ EU SOU O LP (NÃO PERGUNTE O SIGNIFICADO)
  <a href="https://discord.com/channels/732926927127445535/732926927127445538" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luís-fernando-de-souza-8735481b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
+    
+    http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif
  
