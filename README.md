@@ -20,7 +20,7 @@ OLÁ, EU SOU O LP (NÃO PERGUNTE O SIGNIFICADO)
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="[https://tenor.com/es/ver/darth-vader-this-is-your-last-warning-im-warning-you-star-wars-dont-ruin-my-morning-gif-21617806](https://gfycat.com/stickers/search/darth+vader)"
+  src="https://cdn.discordapp.com/attachments/975445932621590598/1009603781446598776/ActiveEnormousGreathornedowl-size_restricted.gif"
 </div>
   
   
