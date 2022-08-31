@@ -6,7 +6,8 @@
 - 💻 Dev fullstack com foco em desenvolvimento web  
 - 🌱 Foco em aprendizados múltiplos
 - 🎮 Apaixonado por games e TI
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lpw13&label=Profile%20views&color=0e75b6&style=flat" alt="Lpw13" /> </p>
+<p>
 
 ##
 
